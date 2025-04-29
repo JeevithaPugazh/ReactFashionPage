@@ -1,0 +1,12 @@
+html {
+  border-left: 5px solid lightgray;
+  margin-left: 10%;
+}
+
+body {
+  min-height: 100vh;
+  font-family:Arial, Helvetica, sans-serif;
+  max-width: 1000px;
+  margin: auto;
+  font-size: 4rem;
+}
